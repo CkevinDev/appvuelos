@@ -1,0 +1,12 @@
+.tarjetas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.t-items{
+    
+    flex-basis: 26rem;
+}

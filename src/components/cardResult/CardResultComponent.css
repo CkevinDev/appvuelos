@@ -1,0 +1,12 @@
+.tc{
+    display: flex;
+}
+
+.cb{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.tamanio{
+    max-width: 100vh;
+}

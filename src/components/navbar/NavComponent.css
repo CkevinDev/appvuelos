@@ -1,0 +1,18 @@
+.logo{
+    font-weight: 600;
+}
+
+.textos{
+    color: #525151;
+}
+.li-content{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.nav-content{
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+}
